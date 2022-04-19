@@ -1,0 +1,12 @@
+{
+  "name": "testHTML5DEv",
+  "version": "1.0.0",
+  "description": "You have 3 tests, one in each of the 3 folders. The requirements for each test you can find in the individual folders (see files test[testNumber].md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
