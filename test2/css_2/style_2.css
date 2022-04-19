@@ -76,3 +76,6 @@ animation: bounce 3s ease-out infinite ,dws-moveLeft 25s ease-out infinite alter
     text-align:center;
 
 }
+li {
+    list-style: none;
+}
