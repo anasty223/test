@@ -68,3 +68,9 @@ animation: bounce 3s ease-out infinite ,dws-moveLeft 25s ease-out infinite alter
         left: 100%;
     }
 }
+.Link {
+    font-size: 30px;
+    text-decoration:none;
+    color:black;
+
+}
