@@ -53,7 +53,9 @@ h1{
     }
 .Link{
     font-size: 30px;
-    text-decoration:none;
+  
     color:black;
+    display: block;
+    text-align:center;
  
 }

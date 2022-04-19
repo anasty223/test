@@ -70,7 +70,9 @@ animation: bounce 3s ease-out infinite ,dws-moveLeft 25s ease-out infinite alter
 }
 .Link {
     font-size: 30px;
-    text-decoration:none;
+  
     color:black;
+    display: block;
+    text-align:center;
 
 }

@@ -32,7 +32,8 @@ height:400px;
 }
 .Link {
   font-size: 30px;
-  text-decoration:none;
+display: block;
+text-align:center;
   color:black;
  
 }
